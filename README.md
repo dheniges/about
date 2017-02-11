@@ -22,10 +22,11 @@ A fully functional Rails 3 based REST API for resumes
 
 **Steamworks**  
 An attempt at a Ruby game utilizing [Gosu](https://www.libgosu.org/)  
+Good example of Ruby without a framework
 [Steamworks](https://github.com/dheniges/steamworks)
 
 **Chompy**  
-[Chompy](https://github.com/dheniges/chompy) is a hipchat bot.
+[Chompy](https://github.com/dheniges/chompy) is a simple hipchat bot.
 
 
 
