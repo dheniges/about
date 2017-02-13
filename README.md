@@ -6,7 +6,7 @@ A most-likely outdated overview of public code fun and work.
 
 You'll find me coding in ruby and javascript mainly. PHP happens when the need arises :)
 
-# Open Source Contributions
+# Open Source Code
 
 ## Ruby
 
