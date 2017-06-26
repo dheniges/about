@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/dirk-heniges-10465219)  
 [Github](https://github.com/dheniges)
 
-A most-likely outdated overview of public code fun and work.
+An overview of public code fun and work.
 
 You'll find me coding in ruby and javascript mainly. PHP happens when the need arises :)
 
